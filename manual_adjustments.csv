@@ -1,0 +1,5 @@
+ticker,action,field,value,source,note
+COLL,exclude,,,Q2 2026 earnings coverage (~$1.1B debt),Debt not captured by XBRL tags pulled; true leverage far above screen limit
+RH,exclude,,,FY ended Jan 2026 balance sheet (~$2.4B long-term debt),Debt not captured by XBRL tags pulled; fails net leverage screen
+YELP,set,debt,100000000,Q2 2026 shareholder letter,Revolver drawn in 2026 to fund Hatch acquisition and buybacks
+YELP,set,cash,94142000,Q2 2026 shareholder letter,Cash at June 30 2026 after Hatch acquisition
